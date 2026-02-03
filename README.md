@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! Meu nome é Rafael ... e sou um estudante do SENAI.</h2>
+<h2 align="left">Hi 👋! Meu Nome é Rafael e sou um estudante do SENAI</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/dd/ae/81/ddae81017f423798bf792d671105aede.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/05/50/ad/0550add5ec89d85be6e8201859c5ef94.gif"  />
 
 ###
 
