@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rafael ... and I'm a estudante do SENAI.</h2>
+<h2 align="left">Hi 👋! Meu nome é Rafael ... e sou um estudante do SENAI.</h2>
 
 ###
 
